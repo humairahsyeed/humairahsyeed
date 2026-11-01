@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm learning Jiu-jitsu 
 -->
-My name is Humairah Syeed and a first year **Cyber security student!** So far i'm enjoying myself and learning the basics as this is all new to me. 
+My name is Humairah Syeed and a first year **Cyber security student!** Learning Python, VSCode, Git and Pycharm.
 
 📫 *Contact* humairahsyeed@gmail.com **OR** my student email at: h.syeed3379@student.leedsbeckett.ac.uk
 
